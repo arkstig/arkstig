@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Stig Ark
+- 👀 I’m interested in TECH, Programming, Design, Photography.
+- 🌱 I’m currently learning React, Unity and information architecture.
+- 📫 How to reach me stig.ark@gmail.com
