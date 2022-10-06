@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Stig Ark
 - 👀 I’m interested in TECH, Programming, Design, Photography.
-- 🌱 I’m currently learning React, Unity and information architecture.
+- 🌱 I’m currently learning React / Next.js, TypeScript, Testing, ORM, communication design and Project Management.
 - 📫 How to reach me stig.ark@gmail.com
